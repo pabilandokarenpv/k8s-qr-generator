@@ -60,7 +60,7 @@ curl -X POST http://localhost:8080/generate \
 
 ---
 
-All the code from this article is available in this repository. Fork it, clone it to your Codespace, and start experimenting.
+Fork this repository, clone it to your Codespace, and start experimenting.
 
 You now know more about Kubernetes than most developers who've never touched it. You've done what many put off for months because "it's too complicated."
 
