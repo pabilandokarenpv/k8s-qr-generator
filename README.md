@@ -2,7 +2,7 @@
 
 A hands-on project for learning Kubernetes by building and deploying a dynamic QR code generator microservice—entirely in your browser using GitHub Codespaces.
 
-## What You'll Learn
+## What You'll Learngi
 
 - **Containers** - Packaging applications with Docker
 - **Kubernetes Fundamentals** - Pods, Deployments, Services, and kubectl
